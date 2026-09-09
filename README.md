@@ -107,20 +107,6 @@ Vehicle Counting
 Display Detection Result
 ```
 
-## 📊 Output
-
-The system displays detected vehicles with bounding boxes and provides information such as vehicle count.
-
-Add your project screenshots in the `screenshots` folder and display them here.
-
-```markdown
-![Vehicle Detection Result](code.png)
-```
-
-```markdown
-![Speed Detection Result](Vechicle_detection.png)
-```
-
 ## 📌 Applications
 
 * Traffic monitoring
