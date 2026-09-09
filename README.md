@@ -118,7 +118,7 @@ Add your project screenshots in the `screenshots` folder and display them here.
 ```
 
 ```markdown
-![Speed Detection Result](screenshots/speed_detection.png)
+![Speed Detection Result](Vechicle_detection.png)
 ```
 
 ## 📌 Applications
