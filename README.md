@@ -55,7 +55,7 @@ Vehicle-Detection-OpenCV/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/theowl07/VEHICLE_DETECTION)
 ```
 
 ### 2. Open the project folder
